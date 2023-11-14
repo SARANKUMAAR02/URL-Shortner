@@ -15,8 +15,8 @@ Follow these instructions to set up and run the URL shortener on your local mach
 ## Installation
 
 ```bash
-    git clone https://github.com/your-username/url-shortener-nodejs.git
-    cd url-shortener-nodejs
+    git clone https://github.com/SARANKUMAAR02/URL-Shortner.git
+    cd URL-Shortner
     npm install
     npm start
 ```
